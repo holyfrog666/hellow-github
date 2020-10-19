@@ -1,4 +1,4 @@
 # hellow-github
-hello-github
+hellow-github
 
-#First commit
+## hellow arctic!
